@@ -1,4 +1,4 @@
-# Custom Password Checker   
+### Custom Password Checker   
 This project is a simple password checker that evaluates the strength of passwords based on a scoring system. It does not include any advanced features for generating strong passwords, but it provides a straightforward interface for checking password strength.
 
 # Features
